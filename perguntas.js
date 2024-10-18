@@ -1,43 +1,43 @@
 criaCartão(
-    'Historia',
-    'Quando acabou a segundo Guerra mundial?',
-    'Acabou em 1945'
+    'História',
+    'Quando foi proclamada a República no Brasil?',
+    'Foi em 1889.'
 )
 
 criaCartão(
     'Biologia',
-    'Qual o maior osso do corpo humano?',
-    'Femur'
+    'O que é fotossíntese?',
+    'É o processo de produção de energia pelas plantas.'
 )
 
 criaCartão(
     'Biologia',
-    'Qual o maior orgão do corpo humano?',
-    'A pele'
+    'O que é mitose?',
+    'É a divisão celular que gera duas células idênticas.'
 )
 
 criaCartão(
     'Geografia',
-    'Qual a capital da irlanda?',
-    'Dublin'
+    'O que é latitude?',
+    'É a distância de um ponto na Terra em relação à linha do Equador.'
 )
 
 criaCartão(
     'Geografia',
-    'Qual os três países mais ricos do mundo? ',
-    'Luxemburgo,Irlanda e Suiça'
+    'O que é fuso horário?',
+    'É a divisão da Terra em 24 partes para organizar o tempo.'
 )
 
-criaCartão(
+criaCartão( 
     'Matematica',
-    'Qual o valor de pi?',
-    '3,14'
+    'O que é uma fração?',
+    'É a representação de uma parte de um todo.'
 ) 
 
 criaCartão(
     'Português',
-    'O que é anomatopéia?',
-    'Onomatopeia ou mimologia é uma figura de linguagem na qual se reproduz um som por meio de fonemas. A forma adjetiva é onomatopeico ou onomatopaico.'
+    'O que é sujeito?',
+    'É o termo da oração que pratica a ação.'
 )
 
 criaCartão(
