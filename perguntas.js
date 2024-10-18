@@ -48,45 +48,45 @@ criaCartão(
 
 criaCartão(
     'Geografia',
-    'Qual o menor pais do mundo?',
-    'Vaticano'
+    'O que é fuso horário?',
+    'É a divisão da Terra em 24 partes para organizar o tempo.'
 )
 
 
 criaCartão(
     'Historia/Biologia',
-    'quem foi charles darwin?',
-    'Charles Robert Darwin foi um naturalista, geólogo e biólogo britânico, célebre por seus avanços sobre evolução nas ciências biológicas.'
+    'Quando terminou a Guerra do Paraguai?',
+    'Terminou em 1870.'
 )
 
 criaCartão(
-    'Sociologio',
-    'Como o acumulo de capital afeta a sociedade?',
-    'Criando desigualdade e concentração de capital em em um só polo da sociedade'
+    'Sociologia',
+    'O que é cultura?',
+    'É o conjunto de costumes, crenças e práticas de uma sociedade.'
 )
 
 criaCartão(
     'Filosofia',
-    'Qual foi a bro mais importante de Friedrich Nietzsche?',
-    'Assim falou zaratustra'
+    'O que é ética?',
+    'É o estudo dos princípios que orientam o comportamento humano.'
+
+criaCartão(
+    'Matemática',
+    'O que é uma equação do segundo grau?',
+    'É uma equação que possui uma incógnita elevada ao quadrado.'
 )
 
 criaCartão(
-    'Matematica',
-    'Como medir a área de um quadrado?',
-    'Base*Altura= área do mesmo '
-)
-
-criaCartão(
-    'Quimica',
-    'quantos elementos tem na tabela periódica?',
-    '118 elementos quimicos'
+    'Química',
+    'O que é um átomo?',
+    'É a menor partícula de um elemento químico.'
 )
 
 criaCartão(
     'fisica',
-    'Como calcular velocidado do objeto?',
-    'Deslocamento sobre a alteração no tempo (Δt) representado pela equação v = Δs/Δt.'
+    'O que é gravidade?',
+    'É a força que atrai os corpos para o centro da Terra.'
+
 )
 
 criaCartão(
@@ -97,26 +97,26 @@ criaCartão(
 
 criaCartão(
     'Artes',
-    'Qual foi o mais famoso pintor da historia?',
-    'Leonardo da vinci'
+    'O que é cubismo?',
+    'É um movimento artístico que utiliza formas geométricas.'
 )
 
 criaCartão(
-    'Historia',
-    'Quando foi abolida a escravidão no Brasil?',
-    'Foi em 1888'
+    'História',
+    'Quando foi assinada a Lei Áurea?',
+    'Foi assinada em 1888.'
 )
 
 criaCartão(
-    'Historia',
-    'Diga três leis Abolicionistas?',
-    'Lei Eusébio de queiros, Lei Aurea e Lei do ventre livre'
+    'História',
+    'Quando começou a Primeira Guerra Mundial?',
+    'Começou em 1914.'
 )
 
 criaCartão(
-    'Matematica',
-    'Pergunta',
-    'Respostas'
+    'Matemática',
+'O que é uma raiz quadrada?',
+'É o valor que, multiplicado por si mesmo, resulta em um número.'
 )
 
 
