@@ -50,5 +50,12 @@ flex-wrap: wrap;
     border-radius: 6rem;
     padding: 0.6rem;
     margin: 0.6rem;
-    font-size: 1.6vw;
+    font-size: 1.0vw;
+}
+
+.conteudo-cartao p{
+margin-top: 5rem;
+padding: 1rem;
+font-size: 1.4vw;
+
 }
