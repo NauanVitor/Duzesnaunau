@@ -68,7 +68,7 @@ criaCartão(
 criaCartão(
     'Filosofia',
     'O que é ética?',
-    'É o estudo dos princípios que orientam o comportamento humano.'
+    'É o estudo dos princípios que orientam o comportamento humano.')
 
 criaCartão(
     'Matemática',
