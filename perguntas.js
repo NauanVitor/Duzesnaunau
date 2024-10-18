@@ -42,8 +42,8 @@ criaCartão(
 
 criaCartão(
     'Historia',
-    'Por que o muro de Berlim caiu?',
-    'A queda do Muro de Berlim foi consequência da crise enfrentada pelo bloco socialista na década de 1980.'
+    'Quando começou a Revolução Francesa?',
+    'Começou em 1789.'
 )
 
 criaCartão(
