@@ -41,8 +41,12 @@ header a{
 
     .cartao{
         background-color: var(--frente-cartão);
-        border: 1px solid var(--destaque)
-        padding: 40px
-        color: var(--branco))
-        box-shadow: 5px 6px 25px var(--branco))
+        border: 1px solid var(--destaque);
+        padding: 40px;
+        color: var(--branco);
+        box-shadow: 5px 6px 25px var(--branco);
+    }
+
+    .cartao:hover{
+        transform: scale(1.04);
     }
