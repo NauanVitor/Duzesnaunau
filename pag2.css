@@ -44,7 +44,7 @@ header a{
         border: 1px solid var(--destaque);
         padding: 40px;
         color: var(--branco);
-        box-shadow: 5px 6px 25px var(--pretod);
+        box-shadow: 5px 6px 25px var(--preto);
     }
 
     .cartao:hover{
