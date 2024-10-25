@@ -69,3 +69,7 @@ font-size: 1.4vw;
 .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
 }
+
+.resposta-cartao{
+    transform: rotatey(180deg);
+}
